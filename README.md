@@ -1,5 +1,5 @@
-# it's have only one issue that is when you lost it showing hurray u win so everyone fell free to fix this i have no time to fix this
 # rock-paper-scissors
+it's have only one issue that is when you lost it showing hurray u win so everyone fell free to fix this right now i have no time to fix this
 it's simple game
 Features
 Randomized computer choice using JavaScript.
